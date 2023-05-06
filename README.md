@@ -2,7 +2,7 @@
 
 ## Setup
 ```bash
-git clone git@github.com:chanwutk/tmux.git $XDG_CACHE_HOME/tmux
+git clone git@github.com:chanwutk/tmux.git $XDG_CONFIG_HOME/tmux
 ```
 
 ## Initialize UI Interface
